@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Low-level Visual Perception in the Foundation Model Era
+# 👁️‍🗨️ Intelligent Low-level Visual Enhancement in AIGC Era
 
 _🔖Aiming at intelligent low-level algorithms_
 
