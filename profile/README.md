@@ -1,8 +1,8 @@
 # 👁️‍🗨️ Low-level Visual Perception in the Foundation Model Era
 
-_🔖Aiming at next-era cornerstone research_
+_🔖Aiming at intelligent low-level algorithms_
 
-⭐ _Low-level Visual Perception | Multi-Modality Large Language Models | Visual Quality Assessment_
+⭐ _Low-level Visual Enhancement | Multi-Modality Large Language Models | AIGC Enhancement_
 #### 📖Main Projects
 
 - ④**Co-Instruct**: [Homepage](https://co-instruct.github.io/), [Repo](https://github.com/Q-Future/Co-Instruct), [Demo](https://q-future-co-instruct.hf.space/). Open-ended visual quality comparer (up to 4 images), low-level visual assistant, an improved version of ②**Q-Instruct [CVPR 2024]**.
