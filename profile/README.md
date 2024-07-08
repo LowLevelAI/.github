@@ -6,6 +6,6 @@ _🔖Aiming at intelligent low-level algorithms_
 
 #### 📖Main Projects
 
-- ①**GLARE [ECCV2024]**: [Repo](https://github.com/Q-Future/Q-Bench), [Data-Single](https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease) The first low-level benchmark for foundation models on low-level vision.
+- ①**GLARE [ECCV2024]**: [Repo](https://github.com/Q-Future/Q-Bench) The first low-level benchmark for foundation models on low-level vision.
 
 
