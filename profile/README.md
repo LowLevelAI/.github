@@ -6,6 +6,6 @@ _🔖Aiming at intelligent low-level algorithms_
 
 #### 📖Main Projects
 
-- ①**GLARE [ECCV2024]**: [Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval](https://github.com/LowLevelAI/GLARE). 
+- ①**GLARE: Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval [ECCV2024]**: [Code](https://github.com/LowLevelAI/GLARE). 
 
 
