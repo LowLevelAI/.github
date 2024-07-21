@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Intelligent Low-level Visual Enhancement in the AI Era
 
-_🔖Aiming at intelligent low-level algorithms_
+_🔖 Aiming at intelligent low-level algorithms_
 
 ⭐ _Low-level Visual Enhancement | Multi-Modality Large Language Models | AIGC Enhancement_
 
