@@ -14,4 +14,6 @@ _🔖 Aiming at intelligent low-level algorithms_
 
 - ④ **LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors [CVPR 2025]**: <a href="https://github.com/LowlevelAI/LITA-GS"><img src="https://img.shields.io/github/stars/LowlevelAI/LITA-GS"/></a>
 
+- ⑤ **Zero-Reference Joint Low-Light Enhancement and Deblurring via Visual Autoregressive Modeling with VLM-Derived Modulation [AAAI 2026]**: <a href="https://github.com/LowLevelAI/VAR-LIDE"><img src="https://img.shields.io/github/stars/LowlevelAI/VAR-LIDE"/></a>
+
 
